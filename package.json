@@ -1,0 +1,30 @@
+{
+  "name": "discordbot-template",
+  "version": "1.0.0",
+  "description": "Template Bot Discord (Discord.js)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skiz54/DiscordBot-template.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Discord.js",
+    "Skiz54"
+  ],
+  "author": "Skiz54",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skiz54/DiscordBot-template/issues"
+  },
+  "homepage": "https://github.com/Skiz54/DiscordBot-template#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4"
+  }
+}
