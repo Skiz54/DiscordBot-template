@@ -1,4 +1,6 @@
-<h1 align="center">DProtect 🤖</h1>
+<h1 align="center">DiscordBot-Template 🤖</h1>
+
+> An **open source** `discord.js` bot template which is based on official [discord.js guide](https://discordjs.guide/) to get started on making your very personal discord bot !
 
 ## Install
 
